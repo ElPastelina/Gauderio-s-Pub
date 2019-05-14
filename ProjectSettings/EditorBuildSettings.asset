@@ -9,12 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 47a66f681c5c7cb4c84b45db9130612f
   - enabled: 1
-    path: Assets/Scenes/Guri de carpete.unity
-    guid: 922bab3a571598d44a8e4f46f033a9e2
-  - enabled: 1
     path: Assets/Scenes/Bagual.unity
     guid: 8d566f6a7d352da4cb86bad37f7136e3
-  - enabled: 1
-    path: Assets/Scenes/Peleia braba.unity
-    guid: 9e5a4fe32a929fe4285810112572e775
   m_configObjects: {}
