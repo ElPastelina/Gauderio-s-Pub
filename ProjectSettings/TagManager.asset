@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FridgeCollider
+  - can_0
+  - can_1
+  - can_2
+  - can_3
+  - can_4
+  - can_5
+  - glass_empty
+  - glass_0
+  - glass_1
+  - glass_2
+  - glass_3
+  - glass_4
+  - botles_0
+  - botles_1
+  - botles_2
+  - botles_4
+  - botles_3
+  - can_empty
+  - order_pos_0
+  - order_pos_1
+  - order_pos_2
+  - order_pos_3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Trigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
