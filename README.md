@@ -1,6 +1,6 @@
 # Gauderio's Pub
 
-Gauderio's Pub is the first game I made. This game was made using [Unity](https://unity.com/ "Unity Website").
+Gauderio's Pub is the first game I made and it was made using [Unity](https://unity.com/ "Unity Website").
 
 ## ChangeLog
 
