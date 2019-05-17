@@ -4,7 +4,7 @@ Gauderio's Pub is the first game I made and it was made using [Unity](https://un
 
 ## Download
 
-[Download](https://drive.google.com/file/d/1TNdz--0vHBUeLxHwBo5RJP6KhN2jZnIj/view?usp=sharing "Gauderio's Pub Download") **v0.1**
+ **v0.1** [Download](https://drive.google.com/file/d/1TNdz--0vHBUeLxHwBo5RJP6KhN2jZnIj/view?usp=sharing "Gauderio's Pub Download")
 
 ## ChangeLog
 
