@@ -4,7 +4,7 @@ Gauderio's Pub is the first game I made and it was made using [Unity](https://un
 
 ## ChangeLog
 
-**v1.0** 14/05/2019
+**v0.1** - 14/05/2019
 
 * First release.
 
